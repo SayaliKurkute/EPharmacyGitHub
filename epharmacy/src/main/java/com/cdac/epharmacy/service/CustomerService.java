@@ -25,11 +25,11 @@ public interface CustomerService {
 	
 	int addOrder(int userId, double totalPrice);
 	
-	int addOrdersDetails(int userId, int OrderId);
-	List<Orders> getOrdersList(int userId);
-	List<OrderDetails> getOrdersDetailsList(int orderId);
+	//int addOrdersDetails(int userId, int OrderId);
+	//List<Orders> getOrdersList(int userId);
+	//List<OrderDetails> getOrdersDetailsList(int orderId);
 	
-	String updateCartItems(int userId);
+	//String updateCartItems(int userId);
 	
 	String deliveredOrder(int orderId);
 	
