@@ -26,7 +26,7 @@ const AboutUsScreen = () => {
             <b>E-Pharmacy Store</b> continues a legacy of success in the pharmaceutical industry. 
             We are committed to provide safe, reliable and affordable medicines as well as a
              customer service philosophy that is worthy of our valued customer’s loyalty. 
-             We offer a superior online shopping experience,  includes ease of navigation and
+             We offer a superior online shopping experience, which includes ease of navigation and
               absolute transactional security.
 
             </p>
