@@ -17,7 +17,7 @@ const AboutUsScreen = () => {
             </p>
             <p>
            <b> At E-Pharmacy Store,</b> we provide a wide range of  medicines and other health products 
-            conveniently available all across India. Even second and third tier cities and 
+            conveniently available across India. Even second and third tier cities and 
             rural villages can now have access to the latest medicines. Since we also offer generic
              alternatives to most medicines, online buyers can expect significant savings.
 
