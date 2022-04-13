@@ -23,7 +23,7 @@ public interface CustomerService {
 	List<Order> getDeliveredOrders();
 	/*List<Product> getProductListByName(String productName);
 	
-	int addOrder(int userId, double totalPrice);
+	//int addOrder(int userId, double totalPrice);
 	
 	//int addOrdersDetails(int userId, int OrderId);
 	//List<Orders> getOrdersList(int userId);
